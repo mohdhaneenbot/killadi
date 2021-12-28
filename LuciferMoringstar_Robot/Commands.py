@@ -120,6 +120,8 @@ async def start(bot, message):
                 InlineKeyboardButton("Help", callback_data="help"),
                 InlineKeyboardButton("About", callback_data="about")
                 ]]
+                 [InlinekeybroardButton("ADD ME TO YOUR GROUP", callback_data="ADD ME TO YOUR GROUP")
+                  ]
             )
         )
         StopPropagation
