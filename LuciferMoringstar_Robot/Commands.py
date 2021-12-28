@@ -115,13 +115,11 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
+                InlineKeyboardButton("MY DEV", @Mohd_haneen='')
                 ],[
                 InlineKeyboardButton("Help", callback_data="help"),
                 InlineKeyboardButton("About", callback_data="about")
                 ]]
-                 [InlinekeybroardButton("ADD ME TO YOUR GROUP", callback_data="ADD ME TO YOUR GROUP")
-                  ]
             )
         )
         StopPropagation
