@@ -41,3 +41,4 @@ https://youtube.com/c/NaughtyPROFESSOR)
 """
 ADD ME TO YOUR GROUP ="""
 (https://t.me/Nsdragon_Bot?startgroup=true)
+""'
