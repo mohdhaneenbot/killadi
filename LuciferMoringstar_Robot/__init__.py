@@ -39,3 +39,5 @@ https://youtube.com/c/NaughtyPROFESSOR)
 
 ➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
 """
+ADD ME TO YOUR GROUP ="""
+(https://t.me/Nsdragon_Bot?startgroup=true)
